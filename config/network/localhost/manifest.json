@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "OPERATION DAMOCLES",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "damocles",
     "defaultUser": {
-        "userId": "user",
+        "userId": "agent",
         "password": "",
-        "userName": "anonymous"
+        "userName": "Agent"
     },
     "randomSeed": true,
     "initialHistory": {
